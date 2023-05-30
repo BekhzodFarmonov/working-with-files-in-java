@@ -1,0 +1,4 @@
+car=avtomobil
+hi=salom
+mONkey=maymun
+lion=sher
